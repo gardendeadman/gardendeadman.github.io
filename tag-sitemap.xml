@@ -4,21 +4,21 @@
 
     <url>
         <loc>http://yoursite.com/tags/mariaDB/</loc>
-        <lastmod>2020-01-21T14:45:54.899Z</lastmod>
+        <lastmod>2020-01-21T14:49:44.801Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/spring-boot/</loc>
-        <lastmod>2020-01-21T14:45:54.899Z</lastmod>
+        <lastmod>2020-01-21T14:49:44.801Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/vue-js/</loc>
-        <lastmod>2020-01-21T14:45:54.899Z</lastmod>
+        <lastmod>2020-01-21T14:49:44.801Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
