@@ -3,22 +3,36 @@
 
 
     <url>
+        <loc>http://yoursite.com/tags/hexo/</loc>
+        <lastmod>2020-01-22T00:27:25.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/github/</loc>
+        <lastmod>2020-01-22T00:27:25.083Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite.com/tags/mariaDB/</loc>
-        <lastmod>2020-01-21T14:56:32.429Z</lastmod>
+        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/spring-boot/</loc>
-        <lastmod>2020-01-21T14:56:32.429Z</lastmod>
+        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/vue-js/</loc>
-        <lastmod>2020-01-21T14:56:32.429Z</lastmod>
+        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
