@@ -3,36 +3,43 @@
 
 
     <url>
+        <loc>http://yoursite.com/tags/%25EA%25B5%25AC%25EB%25A6%2584IDE/</loc>
+        <lastmod>2020-01-22T08:41:29.448Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite.com/tags/hexo/</loc>
-        <lastmod>2020-01-22T00:27:25.083Z</lastmod>
+        <lastmod>2020-01-22T08:41:29.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/github/</loc>
-        <lastmod>2020-01-22T00:27:25.083Z</lastmod>
+        <lastmod>2020-01-22T08:41:29.448Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/mariaDB/</loc>
-        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
+        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/spring-boot/</loc>
-        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
+        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/vue-js/</loc>
-        <lastmod>2020-01-22T00:24:16.717Z</lastmod>
+        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
