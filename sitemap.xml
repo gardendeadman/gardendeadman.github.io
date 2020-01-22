@@ -8,6 +8,11 @@
     </sitemap>
 
     <sitemap>
+        <loc>http://yoursite.com/page-sitemap.xml</loc>
+        <lastmod>2020-01-22T09:56:36.179Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>http://yoursite.com/tag-sitemap.xml</loc>
         <lastmod>2020-01-22T08:56:51.151Z</lastmod>
     </sitemap>
