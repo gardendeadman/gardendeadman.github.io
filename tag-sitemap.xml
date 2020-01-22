@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://yoursite.com/tags/vue-js/</loc>
+        <lastmod>2020-01-22T15:13:56.873Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/spring-boot/</loc>
+        <lastmod>2020-01-22T15:13:56.873Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/mariaDB/</loc>
+        <lastmod>2020-01-22T15:13:56.873Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite.com/tags/Adsense/</loc>
         <lastmod>2020-01-22T15:12:34.861Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,27 +54,6 @@
     <url>
         <loc>http://yoursite.com/tags/hexo/</loc>
         <lastmod>2020-01-22T15:12:34.861Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/vue-js/</loc>
-        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/spring-boot/</loc>
-        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/mariaDB/</loc>
-        <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
