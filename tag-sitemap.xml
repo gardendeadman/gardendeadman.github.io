@@ -3,36 +3,36 @@
 
 
     <url>
-        <loc>http://yoursite.com/tags/SEO/</loc>
-        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <loc>http://yoursite.com/tags/Adsense/</loc>
+        <lastmod>2020-01-22T15:12:34.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/tags/%25EC%2595%25A0%25EB%2593%259C%25EC%2584%25BC%25EC%258A%25A4/</loc>
-        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <loc>http://yoursite.com/tags/goormIDE/</loc>
+        <lastmod>2020-01-22T15:12:34.861Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/SEO/</loc>
+        <lastmod>2020-01-22T15:12:34.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/github/</loc>
-        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <lastmod>2020-01-22T15:12:34.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/hexo/</loc>
-        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/%25EA%25B5%25AC%25EB%25A6%2584IDE/</loc>
-        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <lastmod>2020-01-22T15:12:34.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
