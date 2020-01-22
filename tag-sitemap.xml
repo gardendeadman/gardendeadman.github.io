@@ -4,41 +4,41 @@
 
     <url>
         <loc>http://yoursite.com/tags/SEO/</loc>
-        <lastmod>2020-01-22T08:53:02.334Z</lastmod>
+        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/%25EC%2595%25A0%25EB%2593%259C%25EC%2584%25BC%25EC%258A%25A4/</loc>
-        <lastmod>2020-01-22T08:53:02.334Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/%25EA%25B5%25AC%25EB%25A6%2584IDE/</loc>
-        <lastmod>2020-01-22T08:53:02.334Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://yoursite.com/tags/hexo/</loc>
-        <lastmod>2020-01-22T08:53:02.334Z</lastmod>
+        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/github/</loc>
-        <lastmod>2020-01-22T08:53:02.334Z</lastmod>
+        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/tags/mariaDB/</loc>
+        <loc>http://yoursite.com/tags/hexo/</loc>
+        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/%25EA%25B5%25AC%25EB%25A6%2584IDE/</loc>
+        <lastmod>2020-01-22T08:56:51.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/vue-js/</loc>
         <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -52,7 +52,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/tags/vue-js/</loc>
+        <loc>http://yoursite.com/tags/mariaDB/</loc>
         <lastmod>2020-01-22T08:38:56.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
