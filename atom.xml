@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://gardendeadman.github.io/"/>
   <updated>2020-01-23T15:42:45.350Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://gardendeadman.github.io/</id>
   
   <author>
     <name>gardendeadman</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>첫 글</title>
-    <link href="http://yoursite.com/2020/01/20/202001211720/"/>
-    <id>http://yoursite.com/2020/01/20/202001211720/</id>
+    <link href="http://gardendeadman.github.io/2020/01/20/202001211720/"/>
+    <id>http://gardendeadman.github.io/2020/01/20/202001211720/</id>
     <published>2020-01-20T23:19:08.000Z</published>
     <updated>2020-01-23T15:42:45.350Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>내 친구의 랜드는 어디인가</title>
-    <link href="http://yoursite.com/2016/10/06/201610070000/"/>
-    <id>http://yoursite.com/2016/10/06/201610070000/</id>
+    <link href="http://gardendeadman.github.io/2016/10/06/201610070000/"/>
+    <id>http://gardendeadman.github.io/2016/10/06/201610070000/</id>
     <published>2016-10-06T15:00:00.000Z</published>
     <updated>2020-01-23T15:42:34.501Z</updated>
     

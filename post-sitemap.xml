@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite.com</loc>
+        <loc>http://gardendeadman.github.io</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/2020/01/20/202001211720/</loc>
+        <loc>http://gardendeadman.github.io/2020/01/20/202001211720/</loc>
         <lastmod>2020-01-23T15:42:45.350Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2016/10/06/201610070000/</loc>
+        <loc>http://gardendeadman.github.io/2016/10/06/201610070000/</loc>
         <lastmod>2020-01-23T15:42:34.501Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
