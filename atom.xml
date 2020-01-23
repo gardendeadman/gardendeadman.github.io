@@ -55,9 +55,9 @@
     <link href="http://yoursite.com/2020/01/21/202001212334/"/>
     <id>http://yoursite.com/2020/01/21/202001212334/</id>
     <published>2020-01-21T05:34:25.000Z</published>
-    <updated>2020-01-23T05:40:10.993Z</updated>
+    <updated>2020-01-23T12:56:23.543Z</updated>
     
-    <content type="html"><![CDATA[<p>순서</p><ol><li>goormIDE</li><li>Hexo</li><li>Github</li><li>AdSense</li><li>SEO</li></ol><h1 id="1-goormIDE"><a href="#1-goormIDE" class="headerlink" title="1. goormIDE"></a>1. goormIDE</h1><blockquote><p><a href="https://ide.goorm.io/" target="_blank" rel="external nofollow noopener noreferrer">ide.goorm.io</a></p></blockquote><p>“구름IDE는 설치가 필요없는 클라우드 통합 개발환경으로<br>팀의 개발 효율성을 극대화하는데 도움을 줍니다.”</p><p>그래서 저는 어느 곳에서든 포스팅을 할 수 있도록 구름IDE를 선택했습니다.</p><h1 id="2-Hexo"><a href="#2-Hexo" class="headerlink" title="2. Hexo"></a>2. Hexo</h1><blockquote><p><a href="https://hexo.io/ko/" target="_blank" rel="external nofollow noopener noreferrer">hexo.io</a></p></blockquote><p>“Hexo는 블로그 프레임워크입니다.”</p><p>Get started 그대로 구름IDE에 Hexo를 설치해봅시다.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><h1 id="3-Github"><a href="#3-Github" class="headerlink" title="3. Github"></a>3. Github</h1><blockquote><p><a href="https://github.com/" target="_blank" rel="external nofollow noopener noreferrer">github.com</a></p></blockquote><h1 id="4-AdSense"><a href="#4-AdSense" class="headerlink" title="4. AdSense"></a>4. AdSense</h1><blockquote><p><a href="http://www.google.com/adsense" target="_blank" rel="external nofollow noopener noreferrer">google.com/adsense</a></p></blockquote><p>이번에는 수익에 보탬이 되는 구글 애드센스를 설치해봅시다.</p><h1 id="5-SEO"><a href="#5-SEO" class="headerlink" title="5. SEO"></a>5. SEO</h1><p>SEO는 <strong>검색 엔진 최적화</strong>의 약자입니다.<br>그런데 검색 엔진 최적화는 왜 하는 걸까요?</p><blockquote><p><a href="https://search.google.com/search-console" target="_blank" rel="external nofollow noopener noreferrer">search.google.com/search-console</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>순서</p><ol><li>GoormIDE</li><li>Hexo</li><li>Github</li><li>Disqus</li><li>AdSense</li><li>SEO</li></ol><h1 id="1-goormIDE"><a href="#1-goormIDE" class="headerlink" title="1. goormIDE"></a>1. goormIDE</h1><blockquote><p><a href="https://ide.goorm.io/" target="_blank" rel="external nofollow noopener noreferrer">ide.goorm.io</a></p></blockquote><p>“구름IDE는 설치가 필요없는 클라우드 통합 개발환경으로<br>팀의 개발 효율성을 극대화하는데 도움을 줍니다.”</p><p>그래서 저는 어느 곳에서든 포스팅을 할 수 있도록 구름IDE를 선택했습니다.</p><h1 id="2-Hexo"><a href="#2-Hexo" class="headerlink" title="2. Hexo"></a>2. Hexo</h1><blockquote><p><a href="https://hexo.io/ko/" target="_blank" rel="external nofollow noopener noreferrer">hexo.io</a></p></blockquote><p>“Hexo는 블로그 프레임워크입니다.”</p><p>Get started 그대로 구름IDE에 Hexo를 설치해봅시다.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line">cd blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><h1 id="3-Github"><a href="#3-Github" class="headerlink" title="3. Github"></a>3. Github</h1><blockquote><p><a href="https://github.com/" target="_blank" rel="external nofollow noopener noreferrer">github.com</a></p></blockquote><h1 id="4-Disqus"><a href="#4-Disqus" class="headerlink" title="4. Disqus"></a>4. Disqus</h1><blockquote><p><a href="https://disqus.com/" target="_blank" rel="external nofollow noopener noreferrer">disqus.com</a></p></blockquote><h1 id="5-AdSense"><a href="#5-AdSense" class="headerlink" title="5. AdSense"></a>5. AdSense</h1><blockquote><p><a href="http://www.google.com/adsense" target="_blank" rel="external nofollow noopener noreferrer">google.com/adsense</a></p></blockquote><p>이번에는 수익에 보탬이 되는 구글 애드센스를 설치해봅시다.</p><h1 id="6-SEO"><a href="#6-SEO" class="headerlink" title="6. SEO"></a>6. SEO</h1><p>SEO는 <strong>검색 엔진 최적화</strong>의 약자입니다.<br>그런데 검색 엔진 최적화는 왜 하는 걸까요?</p><blockquote><p><a href="https://search.google.com/search-console" target="_blank" rel="external nofollow noopener noreferrer">search.google.com/search-console</a></p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -65,28 +65,31 @@
       
         &lt;p&gt;순서&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;goormIDE&lt;/li&gt;
+&lt;li&gt;GoormIDE&lt;/li&gt;
 &lt;li&gt;Hexo&lt;/li&gt;
 &lt;li&gt;Github&lt;/li&gt;
+&lt;li&gt;Disqus&lt;/li&gt;
 &lt;li&gt;AdSense&lt;/li&gt;
 &lt;li&gt;SEO&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&quot;1-goormIDE&quot;&gt;&lt;a href=&quot;#1-goormIDE&quot;
+&lt;h1 id=&quot;1-goormIDE&quot;&gt;&lt;a hr
       
     
     </summary>
     
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
       <category term="SEO" scheme="http://yoursite.com/tags/SEO/"/>
     
-      <category term="goormIDE" scheme="http://yoursite.com/tags/goormIDE/"/>
-    
       <category term="AdSense" scheme="http://yoursite.com/tags/AdSense/"/>
+    
+      <category term="GoormIDE" scheme="http://yoursite.com/tags/GoormIDE/"/>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+    
+      <category term="Disqus" scheme="http://yoursite.com/tags/Disqus/"/>
     
   </entry>
   
