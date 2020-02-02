@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://gardendeadman.github.io/tags/20%25EC%2584%25B8%25EA%25B8%25B0%25EC%2586%258C%25EB%2585%2584/</loc>
+        <lastmod>2020-02-02T12:23:52.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://gardendeadman.github.io/tags/%25EB%258C%2580%25EC%25A0%2584%25EC%2597%2591%25EC%258A%25A4%25ED%258F%25AC/</loc>
+        <lastmod>2020-02-02T12:23:52.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://gardendeadman.github.io/tags/%25ED%2598%2584%25EB%258C%2580%25EB%25AF%25B8%25EC%2588%25A0/</loc>
+        <lastmod>2020-02-02T12:23:52.625Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://gardendeadman.github.io/tags/Hexo/</loc>
         <lastmod>2020-02-02T12:23:00.040Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,20 +40,6 @@
     <url>
         <loc>http://gardendeadman.github.io/tags/Github/</loc>
         <lastmod>2020-02-02T12:23:00.040Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://gardendeadman.github.io/tags/20%25EC%2584%25B8%25EA%25B8%25B0%25EC%2586%258C%25EB%2585%2584/</loc>
-        <lastmod>2020-02-02T08:05:21.060Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://gardendeadman.github.io/tags/%25EB%258C%2580%25EC%25A0%2584%25EC%2597%2591%25EC%258A%25A4%25ED%258F%25AC/</loc>
-        <lastmod>2020-02-02T08:05:21.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
